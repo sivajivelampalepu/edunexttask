@@ -50,5 +50,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  }
+  },
+  "homepage":"https://sivajivelampalepu.github.io/edunexttask/"
 }
