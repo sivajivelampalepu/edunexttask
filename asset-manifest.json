@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/edunexttask/static/css/main.dfedfc6e.css",
+    "main.js": "/edunexttask/static/js/main.a6ce19d8.js",
+    "static/js/555.cddf7623.chunk.js": "/edunexttask/static/js/555.cddf7623.chunk.js",
+    "static/js/81.aa89f8e0.chunk.js": "/edunexttask/static/js/81.aa89f8e0.chunk.js",
+    "static/js/836.f5de07c5.chunk.js": "/edunexttask/static/js/836.f5de07c5.chunk.js",
+    "static/js/679.b773643f.chunk.js": "/edunexttask/static/js/679.b773643f.chunk.js",
+    "static/js/521.d0ae699c.chunk.js": "/edunexttask/static/js/521.d0ae699c.chunk.js",
+    "static/js/453.f96f242b.chunk.js": "/edunexttask/static/js/453.f96f242b.chunk.js",
+    "static/js/239.035dc0eb.chunk.js": "/edunexttask/static/js/239.035dc0eb.chunk.js",
+    "static/js/977.5b020002.chunk.js": "/edunexttask/static/js/977.5b020002.chunk.js",
+    "static/js/455.8abe4422.chunk.js": "/edunexttask/static/js/455.8abe4422.chunk.js",
+    "static/js/685.0e567135.chunk.js": "/edunexttask/static/js/685.0e567135.chunk.js",
+    "static/js/20.a05f17f5.chunk.js": "/edunexttask/static/js/20.a05f17f5.chunk.js",
+    "static/js/745.dfd35fd8.chunk.js": "/edunexttask/static/js/745.dfd35fd8.chunk.js",
+    "index.html": "/edunexttask/index.html",
+    "main.dfedfc6e.css.map": "/edunexttask/static/css/main.dfedfc6e.css.map",
+    "main.a6ce19d8.js.map": "/edunexttask/static/js/main.a6ce19d8.js.map",
+    "555.cddf7623.chunk.js.map": "/edunexttask/static/js/555.cddf7623.chunk.js.map",
+    "81.aa89f8e0.chunk.js.map": "/edunexttask/static/js/81.aa89f8e0.chunk.js.map",
+    "836.f5de07c5.chunk.js.map": "/edunexttask/static/js/836.f5de07c5.chunk.js.map",
+    "679.b773643f.chunk.js.map": "/edunexttask/static/js/679.b773643f.chunk.js.map",
+    "521.d0ae699c.chunk.js.map": "/edunexttask/static/js/521.d0ae699c.chunk.js.map",
+    "453.f96f242b.chunk.js.map": "/edunexttask/static/js/453.f96f242b.chunk.js.map",
+    "239.035dc0eb.chunk.js.map": "/edunexttask/static/js/239.035dc0eb.chunk.js.map",
+    "977.5b020002.chunk.js.map": "/edunexttask/static/js/977.5b020002.chunk.js.map",
+    "455.8abe4422.chunk.js.map": "/edunexttask/static/js/455.8abe4422.chunk.js.map",
+    "685.0e567135.chunk.js.map": "/edunexttask/static/js/685.0e567135.chunk.js.map",
+    "20.a05f17f5.chunk.js.map": "/edunexttask/static/js/20.a05f17f5.chunk.js.map",
+    "745.dfd35fd8.chunk.js.map": "/edunexttask/static/js/745.dfd35fd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfedfc6e.css",
+    "static/js/main.a6ce19d8.js"
+  ]
+}
